@@ -15,5 +15,4 @@ The multiplier uses the CLA to add partial products, optimizing the overall spee
 
 To use the code, clone this repository and include the Verilog files in your project.
 
-```bash
-git clone https://github.com/Rohitshekdar/32bit_multiplier_CLA.git
+
